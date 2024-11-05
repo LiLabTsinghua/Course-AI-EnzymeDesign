@@ -28,7 +28,7 @@ The project includes the following **key tasks**:
 
 ## 🌱 Start
 
-- See **"软件教程.md"** or **"software tutorial.md"** for tutorial of software.
+- See **"软件教程.md"** or **"software_tutorial.md"** for tutorial of software.
   
 - Clone the repository to your server:
 
