@@ -33,4 +33,4 @@ The project includes the following **key tasks**:
 - Clone the repository to your server:
 
   ```bash
-  git clone https://github.com/LiLabTsinghua/AIenzymeDesign.git
+  git clone https://github.com/LiLabTsinghua/Course-AI-EnzymeDesign.git
