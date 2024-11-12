@@ -7,13 +7,12 @@ This repository contains a comprehensive tutorial for AI-based enzyme design and
 - [Introduction](#introduction)
 - [Start](#start)
 - [Course Lessons](#course-lessons)
-  - [Exercise 1: Enzyme and Substrate Feature Extraction](#exercise1)
-  - [Exercise 2: Enzyme Function Annotation](#exercise2)
-  - [Exercise 3: Enzyme-Substrate Interaction Prediction](#exercise3)
-  - [Exercise 4: Enzyme Kinetic Parameter Prediction](#exercise4)
-  - [Exercise 5: AI-assisted Enzyme Design](#exercise5)
-- [Contributing](#contributing)
-- [License](#license)
+  - [Exercise 1: Enzyme and Substrate Feature Extraction](https://github.com/LiLabTsinghua/Course-AI-EnzymeDesign/blob/main/Excercise1/Excercise1.ipynb)
+  - [Exercise 2: Enzyme Function Annotation](https://github.com/LiLabTsinghua/Course-AI-EnzymeDesign/blob/main/Excercise2/Excercise2.ipynb)
+  - [Exercise 3: Enzyme-Substrate Interaction Prediction](https://github.com/LiLabTsinghua/Course-AI-EnzymeDesign/blob/main/Excercise3/Excercise3.ipynb)
+  - [Exercise 4: Enzyme Kinetic Parameter Prediction](https://github.com/LiLabTsinghua/Course-AI-EnzymeDesign/blob/main/Excercise4/Excercise4.ipynb)
+  - [Exercise 5: AI-assisted Enzyme Design](https://github.com/LiLabTsinghua/Course-AI-EnzymeDesign/blob/main/Excercise5/Excercise5.ipynb)
+
 
 ## 👀 Introduction
 
