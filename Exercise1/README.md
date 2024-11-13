@@ -8,7 +8,7 @@ Thank you for participating in this exercise. To ensure that your work is proper
    - Open the provided Jupyter Notebook file and complete all the questions as specified.
    
 2. **Save Your Work:**
-   - Save your completed Jupyter Notebook and oher necessary files, and zip them with the following filename format:
+   - Save your completed Jupyter Notebook and other necessary files, and zip them with the following filename format:
      ```
      <StudentID>-<Name>-Exercise1.zip
      ```
