@@ -26,3 +26,4 @@ Thank you for participating in this exercise. To ensure that your work is proper
      ```
      <StudentID>-<Name>-Exercise2
      ```
+Note: You do not need to answer Question 5. 
