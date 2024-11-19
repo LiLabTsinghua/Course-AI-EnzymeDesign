@@ -33,3 +33,7 @@ The project includes the following **key tasks**:
 
   ```bash
   git clone https://github.com/LiLabTsinghua/Course-AI-EnzymeDesign.git
+- We recommend you to build an externel directory to save your jupyter notebook homework, and use the command below to update new exercises.
+  ```bash
+  cd Course-AI-EnzymeDesign/
+  git pull
