@@ -38,7 +38,7 @@ def Wildtype_all_dataset():
     Value_wildtype = []
     Predict_Label_wildtype = []
     for i in range(len(Type)):
-        if Type[i] == 'wildtype':
+        if Type[i] == 'wild':
             Value_wildtype.append(Value[i])
             Predict_Label_wildtype.append(Predict_Label[i])
     Value_wildtype = np.array(Value_wildtype)
@@ -56,7 +56,7 @@ def Wildtype_test_dataset():
     Value_wildtype = []
     Predict_Label_wildtype = []
     for i in range(len(Type)):
-        if Type[i] == 'wildtype' and Training_test[i] == 1:
+        if Type[i] == 'wild' and Training_test[i] == 1:
             Value_wildtype.append(Value[i])
             Predict_Label_wildtype.append(Predict_Label[i])
     Value_wildtype = np.array(Value_wildtype)
@@ -74,7 +74,7 @@ def Mutant_all_dataset():
     Value_wildtype = []
     Predict_Label_wildtype = []
     for i in range(len(Type)):
-        if Type[i] != 'wildtype':
+        if Type[i] != 'wild':
             Value_wildtype.append(Value[i])
             Predict_Label_wildtype.append(Predict_Label[i])
     Value_wildtype = np.array(Value_wildtype)
@@ -92,7 +92,7 @@ def Mutant_test_dataset():
     Value_wildtype = []
     Predict_Label_wildtype = []
     for i in range(len(Type)):
-        if Type[i] != 'wildtype' and Training_test[i] == 1:
+        if Type[i] != 'wild' and Training_test[i] == 1:
             Value_wildtype.append(Value[i])
             Predict_Label_wildtype.append(Predict_Label[i])
     Value_wildtype = np.array(Value_wildtype)
@@ -126,21 +126,3 @@ def New_substrate_enzyme_dataset():
     r2_test = r2_score(Value_test, Predict_Label_test)
     print('***The Test new_substrate_enzyme dataset***')
     print('Pcc:', Pcc_test, 'RMSE:', RMSE_test, 'MAE:', MAE_test, 'r2:', r2_test)
-
-
-
-if __name__ == '__main__':
-    # files = glob.glob('./EITLEM_result/*_KKM.xlsx')
-    # files = glob.glob('./EITLEM_result/*_DLKcat_KCAT.xlsx')
-    files = glob.glob('./EITLEM_result/chembert2*_KCAT.xlsx')
-    for filename in files:
-        res = np.array(pd.read_excel(filename, sheet_name='Sheet1')).T
-        sequence = res[1]
-        smiles = res[2]
-        Type = res[6]
-        Value = res[7]
-        Predict_Label = res[8]
-        Training_test = res[9]
-
-        print(f"{filename}")
-        test_dataset()
