@@ -35,15 +35,7 @@ Choose the appropriate version based on your operating system. The tutorial belo
 2. **Connecting to the remote server**:
    - After the Remote extensions are installed, click on the 💻**Remote Explorer** icon in the left sidebar.
    - Click the ➕ button to create a new window.
-   - Use the following credentials to connect to our server:
-     - **Server IP**: 10.103.68.252  
-     - **Account**: Your last two characters of your name in lowercase pinyin
-     - **Password**: 123456
-   - In the terminal, enter:  
-     `ssh <account>@10.103.68.252`  
-     (replace `<account>` with your last two characters of your name in lowercase pinyin).
-   - Select the first option to save the configuration.
-   - Once connected, choose **Linux** in the prompt and enter the password `123456`.
+   - connect to our server(Please notice the message in the Wechat Group):
 
 3. **Accessing directories**:
    - Click on the **Explorer** tab on the top left of VSCode.
