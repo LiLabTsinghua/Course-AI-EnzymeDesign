@@ -12,7 +12,7 @@ This repository contains a comprehensive tutorial for AI-based enzyme design and
   - [Exercise 3: Enzyme Kinetic Parameter Prediction](https://github.com/LiLabTsinghua/Course-AI-EnzymeDesign/blob/main/Exercise3/Exercise3.ipynb)
   - [Exercise 4: Enzyme Function Annotation](https://github.com/LiLabTsinghua/Course-AI-EnzymeDesign/blob/main/Exercise4/class4.ipynb)
   - [Exercise 5: AI-assisted Enzyme Design](https://github.com/LiLabTsinghua/Course-AI-EnzymeDesign/blob/main/Exercise5/Exercise5.ipynb)
-
+  - [Exercise 6: Enzyme Design Reliability Validation](https://github.com/LiLabTsinghua/Course-AI-EnzymeDesign/blob/main/Exercise6/class6.ipynb)
 
 ## 👀 Introduction
 
