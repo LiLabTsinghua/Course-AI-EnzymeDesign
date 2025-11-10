@@ -1,29 +1,21 @@
 # Exercise 3 Submission Guidelines
 
-Thank you for participating in this exercise. To ensure that your work is properly submitted and graded, please follow the instructions below carefully.
+Thank you for participating in this exercise. To ensure your work is properly submitted and graded, please follow the instructions below carefully.
 
 ## Instructions
 
-1. **Complete the Questions:**
-   - Open the provided Jupyter Notebook file and complete all the questions as specified.
-   
-2. **Save Your Work:**
-   - Save your completed Jupyter Notebook and other necessary files, and zip them with the following filename format:
-     ```
-     <StudentID>-<Name>-Exercise3.zip
-     ```
-   - For example, if your student ID is 2024214999 and your name is 张三, the filename should be:
-     ```
-     2024214999-张三-Exercise3.zip
-     ```
+1. **Complete the Questions:**  
+   - Open the provided Jupyter Notebook file and complete all questions as specified.
 
-3. **Submit Your Work:**
-   - Send the completed Jupyter Notebook file as an email attachment to the following address:
+2. **Save Your Work:**  
+   - Remember to save your completed Jupyter Notebook and any other required files.
+
+3. **Submit Your Work:**  
+   - Once you have completed all six exercises, compress all relevant files into a single ZIP archive and send it as an attachment to the following email address:  
      ```
      lvbx23@mails.tsinghua.edu.cn
      ```
-   - Ensure that the subject of your email is :
+   - Use the following format for the email subject line:  
      ```
-     <StudentID>-<Name>-Exercise3
+     <StudentID>-<Name>-AI-EnzymeDesign
      ```
-
